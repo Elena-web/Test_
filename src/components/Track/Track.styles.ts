@@ -6,6 +6,7 @@ export const TrackContainer = styled.div`
 	margin-top: -125px;
 	overflow: hidden;
 `
+
 export const Wrapper = styled.div`
 	position: relative;
 	max-width: 530px;
